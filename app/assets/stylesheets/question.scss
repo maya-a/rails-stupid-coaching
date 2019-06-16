@@ -1,0 +1,41 @@
+// Place all the styles related to the question controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+body{
+  margin-left: 20%;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1{
+  color: #0154ad;
+  font-weight: black;
+
+}
+
+
+#bar {
+  margin-right: 10px;
+  font-size: 16px;
+  border: 1px solid rgb(230, 230, 230);
+  border-radius: 5px;
+  height: 30px;
+  width: 30%
+
+}
+
+.button {
+  height: 34px;
+  width: 50px;
+  border: 1px solid rgb(230, 230, 230);
+  border-radius: 5px;
+  background-color: blue;
+  color: white;
+  font-size: 16px;
+}
+
+p {
+  font-size: 16px;
+}
+
